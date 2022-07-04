@@ -1,0 +1,6 @@
+#!/bin/bash
+
+# mkfile: create a file and any missing folders specified in its path
+
+IFS="/"
+
